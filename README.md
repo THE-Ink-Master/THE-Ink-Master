@@ -19,5 +19,5 @@ My real name is Jack.
 
 I like making things for fun, such as websites and other things that have a use!
 
-#Links:
+# Links:
 My portfolio - https://the-ink-master.github.io/portfolio
