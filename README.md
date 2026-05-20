@@ -1,4 +1,4 @@
-## Hello! 👋
+# Hello! 👋
 
 <!--
 **THE-Ink-Master/THE-Ink-Master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +19,5 @@ My real name is Jack.
 
 I like making things for fun, such as websites and other things that have a use!
 
-# Links:
+## Links:
 My portfolio - https://the-ink-master.github.io/portfolio
