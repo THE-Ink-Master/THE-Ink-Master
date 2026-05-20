@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Ink Master! /
+I'm Ink Master! \
 My real name is Jack.
 
 I like making things for fun, such as websites and other things that have a use!
