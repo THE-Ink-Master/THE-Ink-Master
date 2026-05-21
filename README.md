@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 I'm Ink Master! \
 My real name is Jack.
 
 I like making things for fun, such as websites and other things that have a use!
 
-## Links:
+## 🔗 Links:
 Main website - https://the.ink-master.github.io \
 My portfolio - https://the-ink-master.github.io/portfolio
