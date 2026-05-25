@@ -18,7 +18,13 @@ Here are some ideas to get you started:
 I'm Ink Master! \
 My real name is Jack.
 
-I like making things for fun, such as websites and other things that have a use!
+I am a developer who likes making things for fun, such as websites and other things that have a use!
+
+## 📚 Currently, I am working on: 
+School work\
+1/4 scale Mars Rover\
+Node.js library\
+Maintaining my website
 
 ## 🔗 Links:
 Main website - https://the.ink-master.github.io \
