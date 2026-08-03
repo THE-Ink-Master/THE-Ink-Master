@@ -21,7 +21,7 @@ My real name is Jack.
 I am a developer who likes making things for fun, such as websites and other things that have a use!
 
 ## GitHub info:
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/THE-Ink-Master">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/THE-Ink-Master"> <img alt="GitHub Stars" src="https://img.shields.io/github/stars/THE-Ink-Master">
 
 ## 📚 Currently, I am working on: 
 School work\
