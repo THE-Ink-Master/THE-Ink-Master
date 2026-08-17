@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Ink Master! \
-My real name is Jack.
+I'm Ink Master!
+<!-- My real name is Jack. -->
 
 I am a developer who likes making things for fun, such as websites and other things that have a use!
 
@@ -24,9 +24,9 @@ I am a developer who likes making things for fun, such as websites and other thi
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/THE-Ink-Master"> <img alt="GitHub Stars" src="https://img.shields.io/github/stars/THE-Ink-Master">
 
 ## 📚 Currently, I am working on: 
-School work\
+College work\
 1/4 scale Mars Rover\
-Node.js library\
+Minecraft Create Mod add-on\
 Maintaining my website
 
 ## 🔗 Links:
