@@ -24,8 +24,11 @@ I am a developer who likes making things for fun, such as websites and other pro
 College work\
 1/4 scale Mars Rover\
 Minecraft Create Mod add-on\
+A couple private projects\
 Maintaining my websites
 
+<!--
 ## 🔗 Links:
 Main website - https://the.ink-master.github.io \
 My portfolio - https://the-ink-master.github.io/portfolio
+-->
