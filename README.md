@@ -20,9 +20,6 @@ I'm Ink Master!
 
 I am a developer who likes making things for fun, such as websites and other programs that are useful!
 
-## GitHub info:
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/THE-Ink-Master"> <img alt="GitHub Stars" src="https://img.shields.io/github/stars/THE-Ink-Master">
-
 ## 📚 Currently, I am working on: 
 College work\
 1/4 scale Mars Rover\
