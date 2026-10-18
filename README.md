@@ -32,3 +32,9 @@ Maintaining my websites
 Main website - https://the.ink-master.github.io \
 My portfolio - https://the-ink-master.github.io/portfolio
 -->
+
+## Statistics
+
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="400"></img>
+</p>
