@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@ I like Splatoon, and I code for fun!</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            519 Commits
+                            520 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -233,14 +233,13 @@ I like Splatoon, and I code for fun!</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="104.26832048124447" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="104.26832048124447" y="0" width="102.43846842389098" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="206.70678890513545" y="0" width="93.46567185753918" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="300.1724607626747" y="0" width="67.42576459272685" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="367.59822535540155" y="0" width="46.7603284649213" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="414.35855382032287" y="0" width="21.623199363974493" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="435.98175318429736" y="0" width="20.435266057698186" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.41701924199555" y="0" width="3.5829807580045254" height="8" fill="#355570"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="110.09642168416542" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="110.09642168416542" y="0" width="108.1642896348891" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="218.2607113190545" y="0" width="98.68995658822804" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="316.9506679072826" y="0" width="71.19454285554946" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="388.14521076283205" y="0" width="49.374007531751644" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="437.5192182945837" y="0" width="21.577499845901418" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.0967181404851" y="0" width="0.9032818595149269" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -253,7 +252,7 @@ I like Splatoon, and I code for fun!</div>
                             </div>
                             <small>
                                 <div>81.5 kB</div>
-                                <div>22.67%</div>
+                                <div>23.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -265,7 +264,7 @@ I like Splatoon, and I code for fun!</div>
                             </div>
                             <small>
                                 <div>73 kB</div>
-                                <div>20.32%</div>
+                                <div>21.45%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -277,19 +276,19 @@ I like Splatoon, and I code for fun!</div>
                             </div>
                             <small>
                                 <div>36.5 kB</div>
-                                <div>10.17%</div>
+                                <div>10.73%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                Shell
                             </div>
                             <small>
-                                <div>15.9 kB</div>
-                                <div>4.44%</div>
+                                <div>669 bytes</div>
+                                <div>0.2%</div>
                             </small>
                         </div>
                     </section>
@@ -303,7 +302,7 @@ I like Splatoon, and I code for fun!</div>
                             </div>
                             <small>
                                 <div>80.1 kB</div>
-                                <div>22.27%</div>
+                                <div>23.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -315,31 +314,19 @@ I like Splatoon, and I code for fun!</div>
                             </div>
                             <small>
                                 <div>52.7 kB</div>
-                                <div>14.66%</div>
+                                <div>15.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                CSS
+                                Python
                             </div>
                             <small>
-                                <div>16.9 kB</div>
-                                <div>4.7%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#355570" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                GDScript
-                            </div>
-                            <small>
-                                <div>2.80 kB</div>
-                                <div>0.78%</div>
+                                <div>15.9 kB</div>
+                                <div>4.69%</div>
                             </small>
                         </div>
                     </section>
@@ -1394,7 +1381,7 @@ I like Splatoon, and I code for fun!</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Oct 2026, 03:30:56  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Oct 2026, 03:33:56  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
