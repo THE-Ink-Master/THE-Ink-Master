@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- I'm Ink Master! -->
-
-<!--
-## 🔗 Links:
-Main website - https://the.ink-master.github.io \
-My portfolio - https://the-ink-master.github.io/portfolio
--->
-
 <div align="center">
   <h1>Ink Master</h1>
   <!-- </br> -->
@@ -30,12 +22,17 @@ My portfolio - https://the-ink-master.github.io/portfolio
   </br>
   </br>
   <h2>Currently working on</h2>
-  <p>College work</p>
-  <p>1/4 scale Mars Rover</p>
-  <p>Minecraft Create Mod add-on</p>
-  <p>Maintaining my websites</p>
-  <p>Moving websites from GitHub Pages to vercel</p>
-  <p>Custom Docker dashboard</p>
+  College work
+  </br>
+  1/4 scale Mars Rover
+  </br>
+  Minecraft Create Mod add-on
+  </br>
+  Maintaining my websites
+  </br>
+  Moving websites from GitHub Pages to vercel
+  </br>
+  Custom Docker dashboard
   </br>
   <h2>Statistics</h2>
   </br>
