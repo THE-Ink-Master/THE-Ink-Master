@@ -25,14 +25,16 @@ My portfolio - https://the-ink-master.github.io/portfolio
 
 <div align="center">
   <h1>Ink Master</h1>
-  </br>
+  <!-- </br> -->
   I am a developer who likes making things for fun, such as websites, apps and other programs that are useful!
+  </br>
+  </br>
   <h2>Currently working on</h2>
   <p>College work</p>
   <p>1/4 scale Mars Rover</p>
   <p>Minecraft Create Mod add-on</p>
   <p>Maintaining my websites</p>
-  <p>Moving websites from github pages to vercel</p>
+  <p>Moving websites from GitHub Pages to vercel</p>
   <p>Custom Docker dashboard</p>
   </br>
   <h2>Statistics</h2>
