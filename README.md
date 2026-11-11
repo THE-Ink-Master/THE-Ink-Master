@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h1>Ink Master</h1>
   <!-- </br> -->
-  I am a developer who likes making things for fun, such as websites, apps and other programs that are useful!
+  I'm a developer who likes making things for fun!
   </br>
   </br>
   <h2>Currently working on</h2>
