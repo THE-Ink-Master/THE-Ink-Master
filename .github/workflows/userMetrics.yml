@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  # Schedule daily updates
+  # Schedule weekly updates
   schedule: [{cron: "0 0 * * 1"}]
   # (optional) Run workflow manually
   workflow_dispatch:
@@ -28,7 +28,6 @@ jobs:
           plugin_languages_ignored: gdscript, css
           plugin_languages_other: yes
           plugin_languages_colors: github
-          # plugin_languages_other: yes
           # plugin_languages_indepth: yes
           commits_authoring: THE-Ink-Master, 193834158+THE-Ink-Master@users.noreply.github.com
           plugin_languages_limit: 10
